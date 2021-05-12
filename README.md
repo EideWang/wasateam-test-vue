@@ -1,5 +1,8 @@
 # wasateam-test-vue
 
+This is CSR SPA by Vue3 for Wasateam interview test.
+Deployed on Firebase: https://wasateam-test-vue.web.app/
+
 ## Project setup
 ```
 yarn install
