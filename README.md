@@ -1,7 +1,8 @@
 # wasateam-test-vue
 
-This is CSR SPA by Vue3 for Wasateam interview test.
-Deployed on Firebase: https://wasateam-test-vue.web.app/
+This is CSR SPA by Vue3 for Wasateam interview test.  
+Deployed on Firebase: https://wasateam-test-vue.web.app/   
+Fail to set meta tag in vue3 by vue-meta.(not support)  
 
 ## Project setup
 ```
